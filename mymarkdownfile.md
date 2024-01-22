@@ -1,6 +1,6 @@
 # Here's my sample title
 
-This is some sample text1234567890.
+This is some sample text1.
 
 (section-label)=
 ## Here's my first section
